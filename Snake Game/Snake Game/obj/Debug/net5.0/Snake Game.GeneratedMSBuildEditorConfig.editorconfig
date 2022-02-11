@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Snake_Game
-build_property.ProjectDir = C:\Programs\Snake Game\Snake Game\Snake Game\
+build_property.ProjectDir = c:\Programs\Snake Game\Snake Game\Snake Game\
